@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Hsiao78611
+description: 突然發現沒有紀錄點東西<br/>要讓人認識你會變得相當困難
+url: https://hsiao78611.github.io
+avatar: /images/avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /images/bg.jpeg
 
 # Gems
 plugins:
@@ -26,17 +26,18 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
+  - vendor/
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Hsiao78611
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Hsiao78611
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/hsiao78611
+    - https://github.com/hsiao78611
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Hsiao78611
+  url: https://github.com/hsiao78611/
+  email: hsiao78611@gmail.com

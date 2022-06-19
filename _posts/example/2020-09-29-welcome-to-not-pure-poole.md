@@ -1,10 +1,12 @@
 ---
 layout: post
+categories: test
 title: Welcome to Not Pure Poole
 date: 2020-09-29 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
+published: false
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
 {: .message }
@@ -114,13 +116,13 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
+![placeholder](https://placem.at/places?w=800&h=400 "Large example image")
+![placeholder](https://placem.at/places?w=400&h=200 "Medium example image")
+![placeholder](https://placem.at/places?w=200&h=200 "Small example image")
 
 Align to the center by adding `class="align-center"`:
 
-![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
+![placeholder](/images/bg.jpeg "Medium example image"){: .align-center}
 
 ### Tables
 
